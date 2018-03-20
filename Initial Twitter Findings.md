@@ -13,12 +13,10 @@ We looked at both the sentiment of single word usage as well as sentence wide se
 We can immediately see that not only is the conversation around retweets slightly different, but the conversation from day to day changes quickly when major events come out. 
 
 ### Retweets vs. Unique ###
-:-------------------------:|:-------------------------:
-![Word Cloud Feb. 12 Retweets Included](figs/Wordcloud_Day1.png) | ![Word Cloud Feb. 12 Unique](figs/Wordcloud_Day1_unique.png)
+![Word Cloud Feb. 12 Retweets Included](figs/Wordcloud_Day1.png) ![Word Cloud Feb. 12 Unique](figs/Wordcloud_Day1_unique.png)
 
 ### Day 1 vs. Day 2 vs. Day 3 ###
-:-------------------------:|:-------------------------:|:-------------------------:
-![Word Cloud Feb. 12](figs/Wordcloud_Day1.png) | ![Word Cloud Feb. 13](figs/Wordcloud_Day2.png) | ![Wordcloud Day 3](figs/Wordcloud_Day3.png)
+![Word Cloud Feb. 12](figs/Wordcloud_Day1.png) ![Word Cloud Feb. 13](figs/Wordcloud_Day2.png) ![Wordcloud Day 3](figs/Wordcloud_Day3.png)
 
 ## 2 ##
 ### More Volatile Weeks Have More Volatile Sentiment Changes ###
@@ -26,8 +24,7 @@ We can immediately see that not only is the conversation around retweets slightl
 From this initial analysis we can't see if specific people's opinions are changing, but we can see that the sentiment and conversation is changing. Most notably, after a strong spike in negative related or positive related tweets, there will be an immediate rebound to the opposite emotion. 
 
 ### Week 1 - Most Volatile vs. Week 3 - Least Volatile ###
-:-------------------------:|:-------------------------:
-![Full Sentence Sentiment Week 1](figs/Week1_Full.png) | ![Full Sentence Sentiment Week 3](figs/Week3_Full.png)
+![Full Sentence Sentiment Week 1](figs/Week1_Full.png) ![Full Sentence Sentiment Week 3](figs/Week3_Full.png)
 
 ## 3 ##
 ### Discussions Around Immigration can be Nuanced ###
